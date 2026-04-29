@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "X9Q52CSADY.com.hitrontech.myhitroncloud",
+        "paths": [
+          "/app.installation",
+          "/app.installation/",
+          "/app.installation/*"
+        ]
+      },
+      {
+        "appID": "98AMPRY4QV.com.hitrontech.szrd.fizz.wifi",
+        "paths": [
+          "/app.installation",
+          "/app.installation/",
+          "/app.installation/*"
+        ]
+      },
+      {
+        "appID": "98AMPRY4QV.com.hitrontech.szrd.midco",
+        "paths": [
+          "/app.installation",
+          "/app.installation/",
+          "/app.installation/*"
+        ]
+      }
+    ]
+  }
+}
